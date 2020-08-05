@@ -1,4 +1,4 @@
-# Create-one-s-own-shell-program-on-Linux
+# Create-one's-own-shell-program-on-Linux
 
 This is a program written by the C programming language which contains a source file and a header file with a self-defined PATH variable in it.
 
